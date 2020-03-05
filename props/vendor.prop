@@ -191,6 +191,9 @@ vendor.media.omx=0
 # PASR
 vendor.pasr.activemode.enabled=false
 
+# Netflix
+ro.netflix.bsp_rev=Q8450-34634-1
+
 # Perf
 ro.vendor.extension_library=libqti-perfd-client.so
 
