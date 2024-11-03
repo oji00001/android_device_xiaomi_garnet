@@ -560,6 +560,7 @@ PRODUCT_PACKAGES += \
 
 # USB
 PRODUCT_PACKAGES += \
+    android.hardware.usb.gadget-service.qti \
     android.hardware.usb-service.qti \
     libusbhost.vendor
 
